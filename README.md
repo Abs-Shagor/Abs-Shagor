@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Mohammad Abu Bakkar Siddik
 
-### 👨‍💻 Full-Stack Developer | Competitive Programmer | AI Enthusiast
+### 👨‍💻 Aspiring Full Stack Developer | Competitive Programmer
 
-I'm a passionate Computer Science graduate with expertise in building modern web applications, solving complex algorithmic problems, and exploring the frontiers of machine learning. I thrive on turning ideas into scalable, user-friendly solutions.
+A recent Computer Science graduate and dedicated Competitive Programmer. I've had the opportunity to participate in the ICPC Dhaka Regional contest and also served as a Teaching Assistant during my university years. I'm now expanding my expertise into Web Development with a growing interest in Blockchain technology.
 
 ### 🚀 What I'm up to:
-- 🔭 **Currently working on:** Deep learning models for medical diagnosis and scalable MERN stack applications
-- 🌱 **Currently learning:** Advanced system design, cloud architecture, and real-time application development
+- 🔭 **Currently working on:** A modern job portal
+- 🌱 **Currently learning:** React.js, Next.js, Express.js, MongoDB, Firebse, Blockchain
 - 👯 **Looking to collaborate on:** Open-source projects, hackathons, or innovative web/ML applications
 - 🤔 **Looking for help with:** Optimizing large-scale applications and advanced DevOps practices
 - 💬 **Ask me about:** React, Node.js, MongoDB, competitive programming, or CNN architectures
