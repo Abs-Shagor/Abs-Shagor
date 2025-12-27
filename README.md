@@ -1,16 +1,29 @@
-## Hi there 👋  I'm Mohammad Abu Bakkar Siddik
+## Hi there 👋 I'm Mohammad Abu Bakkar Siddik
 
-<!--
-**Abs-Shagor/Abs-Shagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full-Stack Developer | Competitive Programmer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science graduate with expertise in building modern web applications, solving complex algorithmic problems, and exploring the frontiers of machine learning. I thrive on turning ideas into scalable, user-friendly solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to:
+- 🔭 **Currently working on:** Deep learning models for medical diagnosis and scalable MERN stack applications
+- 🌱 **Currently learning:** Advanced system design, cloud architecture, and real-time application development
+- 👯 **Looking to collaborate on:** Open-source projects, hackathons, or innovative web/ML applications
+- 🤔 **Looking for help with:** Optimizing large-scale applications and advanced DevOps practices
+- 💬 **Ask me about:** React, Node.js, MongoDB, competitive programming, or CNN architectures
+- 📫 **How to reach me:** siddik56u@gmail.com | [LinkedIn](your-linkedin-link) | [Portfolio](your-portfolio-link)
+- ⚡ **Fun fact:** I've solved 2000+ coding problems across various platforms and ranked in the top 21% on LeetCode!
+
+### 🏆 Highlights:
+- 🥉 Multiple award winner in national programming contests (ICPC, IUPC)
+- 👨‍🏫 Former Teaching Assistant for Competitive Programming courses
+- 🧠 Developed a deep learning system with 98.43% accuracy for ASD detection
+- 🛠️ Built full-stack applications with React, Express, MongoDB, and modern tooling
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abs-Shagor&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abs-Shagor&layout=compact&theme=radical)
+
+---
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+✨ Welcome to my GitHub! Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussion.
