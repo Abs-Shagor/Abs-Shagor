@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Mohammad Abu Bakkar Siddik
 
-### 👨‍💻 Aspiring Full Stack Developer | Competitive Programmer
 
 A recent Computer Science graduate and dedicated Competitive Programmer. I've had the opportunity to participate in the ICPC Dhaka Regional contest and also served as a Teaching Assistant during my university years. I'm now expanding my expertise into Web Development with a growing interest in Blockchain technology.
 
